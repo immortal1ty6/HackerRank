@@ -1,2 +1,3 @@
 # HackerRank
-Finished Hacker Rank Code
+Finished Hacker Rank Code\
+Documentation - Gabriel Sumampow
